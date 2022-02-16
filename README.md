@@ -13,6 +13,7 @@
 <img align="left" alt="Ruby" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" />
 <img align="left" alt="Rails" width="26px" src="https://miro.medium.com/max/800/1*eRErB-NQYgwF52eUUK_kkQ.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />
 <br />
 <br />
 
